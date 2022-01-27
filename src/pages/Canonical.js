@@ -5,7 +5,7 @@ const Canonical = () => {
     <div>
       <Helmet>
         <title>Canonical page title here</title>
-        <link rel="canonical" href="http://localhost:3000/" />
+        <link rel="canonical" href="https://canonical.netlify.app" />
       </Helmet>{" "}
       this is the canonical page
     </div>
